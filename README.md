@@ -1,5 +1,12 @@
-## Hi there 👋
+### Olá! Eu me chamo Victor Sousa 🤘🏼
+[![Blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/victornaoexiste/)
 
+[![Blog](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white)](https://victornaoexiste.itch.io/)
+
+![Victor's GitHub stats](https://github-readme-stats.vercel.app/api?username=victornaoexiste&show_icons=true&theme=radical)
+
+
+### Ainda to organizando isso então vai ficar assim ate lá
 <!--
 **victornaoexiste/victornaoexiste** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
